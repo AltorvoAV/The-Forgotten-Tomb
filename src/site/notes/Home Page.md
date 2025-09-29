@@ -29,7 +29,7 @@ Themes, genres, tone..etc
 - [[Entities/Player Characters\|Player Characters]]
 - [[Terms\|Terms]]
 - Great Tomes of Lore
-	- [[History of the Forgotten War\|History of the Forgotten War]]
+	- [[Story/Lore/History of the Forgotten War\|History of the Forgotten War]]
 - Story
 	- [[Story/Act I\|Act I]]
 	- [[Story/Act II\|Act II]]
