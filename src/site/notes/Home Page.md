@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 # Summary
-This site aims to cover all *public* info about [[The Forgotten Tomb\|The Forgotten Tomb]] lore. Page may become deprecated over time or be updated with lesser frequency than others. Ping me if a section requires updates.
-> FYI: Information may be missing/redacted if currently unknown by the [[Moonlit Syndicate\|Moonlit Syndicate]].
+This site aims to cover all *public* info about [[Home Page\|The Forgotten Tomb]] lore. Page may become deprecated over time or be updated with lesser frequency than others. Ping me if a section requires updates.
+> FYI: Information may be missing/redacted if currently unknown by the [[Entities/Player Characters\|Moonlit Syndicate]].
 
 ---
 # The World of [[Nyropa\|Nyropa]]
+> *"If Nyropa is a mirror, then everyone is afraid of their own reflection."*
+> - [[Douglas Montgomery\|Douglas Montgomery]]
+
 Themes, genres, tone..etc
 
 
@@ -22,8 +25,8 @@ Themes, genres, tone..etc
 	- [[Cities/The Lost City - City of Thieves\|The Lost City - City of Thieves]]
 	- [[Cities/Valonde - The Pearled Coast\|Valonde - The Pearled Coast]]
 - [[Non-Player Characters\|Non-Player Characters]]
-- [[Gods\|Gods]]
-- [[Player Characters\|Player Characters]]
+- [[Entities/Gods\|Gods]]
+- [[Entities/Player Characters\|Player Characters]]
 - [[Terms\|Terms]]
 - Great Tomes of Lore
 	- [[History of the Forgotten War\|History of the Forgotten War]]
