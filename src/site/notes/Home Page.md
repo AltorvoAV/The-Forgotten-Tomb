@@ -28,8 +28,8 @@ Themes, genres, tone..etc
 - Great Tomes of Lore
 	- [[History of the Forgotten War\|History of the Forgotten War]]
 - Story
-	- [[Act I\|Act I]]
-	- [[Act II\|Act II]]
+	- [[Story/Act I\|Act I]]
+	- [[Story/Act II\|Act II]]
 	- [[Act III\|Act III]]
 	- [[Act IV\|Act IV]]
 	- [[Act V\|Act V]]
