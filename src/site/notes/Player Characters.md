@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/","created":"2025-09-29T17:59:05.147+01:00","updated":"2025-09-29T18:00:05.988+01:00"}
+{"dg-publish":true,"permalink":"/player-characters/"}
 ---
 
 # Quick Info

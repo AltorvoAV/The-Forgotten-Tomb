@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2025-09-29T18:00:26.902+01:00","updated":"2025-09-29T18:00:28.992+01:00"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
 # Summary
@@ -13,7 +13,7 @@ Themes, genres, tone..etc
 
 # Links to Page
 - Tables Rules
-	- [[Custom Rules\|Custom Rules]]
+	- [[Home Rules\|Home Rules]]
 - Cities
 	- [[Cities/Brugrove - City of the Iron Guard\|Brugrove - City of the Iron Guard]]
 	- [[Cities/Porthca - The Arcane Bridge\|Porthca - The Arcane Bridge]]

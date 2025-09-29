@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods/","created":"2025-09-29T17:51:44.809+01:00","updated":"2025-09-29T17:51:46.100+01:00"}
+{"dg-publish":true,"permalink":"/gods/"}
 ---
 
 
