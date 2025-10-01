@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/story/act-ii/"}
+{"dg-publish":true,"permalink":"/story/act-ii/","tags":["Lore"]}
 ---
 
 
-Beginning session 1 until returning to [[Cities/Brugrove - City of the Iron Guard\|Brugrove]].
+Once the party finish the act, I will fill this in.

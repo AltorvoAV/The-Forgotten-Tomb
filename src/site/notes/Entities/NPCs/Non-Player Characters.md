@@ -34,7 +34,7 @@
 - [[Jasper Black\|Jasper Black]]
 - [[Barrus St Claire\|Barrus St Claire]]
 - [[Andaraleanbh Beauchêne\|Andaraleanbh Beauchêne]]
-- [[Captain Jeesea\|Captain Jeesea]]
+- [[Entities/NPCs/Captain G.C.\|Captain G.C.]]
 - [[Gertrude Tommus\|Gertrude Tommus]]
 - [[Furgus Longberry\|Furgus Longberry]]
 - [[Rife Chester\|Rife Chester]]

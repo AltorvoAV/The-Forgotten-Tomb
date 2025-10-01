@@ -4,7 +4,7 @@
 
 # The Great Forgotten War
 
-By Douglas Montgomery, Royal Historian of [[Cities/Brugrove - City of the Iron Guard\|Brugrove]].
+By Douglas Montgomery, Royal Historian of [[Locations/Brugrove - City of the Iron Guard\|Brugrove]].
 Written in the year 168 AR (After [[Story/Lore/History of the Forgotten War\|The Reckoning]])
 
 ## Part I: _Foreword – The Fog of Memory:_
@@ -26,36 +26,36 @@ May the truth one day forgive us.
 
 ---
 
-## Part II: _Accounts from Across [[Nyropa\|Nyropa]]:_
+## Part II: _Accounts from Across [[Locations/Nyropa\|Nyropa]]:_
 
-### 📍 _[[Cities/Brugrove - City of the Iron Guard\|Brugrove]]_
+### 📍 _[[Locations/Brugrove - City of the Iron Guard\|Brugrove]]_
 
 > *“I saw the sky shatter. Not in metaphor, nor madness—but in glass. The heavens were a bowl and it cracked like porcelain, and through the breach I saw light too bright for thought. I heard names that scratched at my bones, and I remember… I remember weeping. Not for what I saw, but for what I had already forgotten.”*
-> – [[Lady Cressidia Vel\|Lady Cressidia Vel]], Brugrove Noble, Age 87
+> – [[Lady Cressidia Vell\|Lady Cressidia Vell]], Brugrove Noble, Age 87
 
-### 📍 _[[Cities/Valonde - The Pearled Coast\|Valonde]]_
+### 📍 _[[Locations/Valonde - The Pearled Coast\|Valonde]]_
 
 > *“The Iron Guard arrived one dawn and said nothing. They appeared across different cities, looking for something. I know not where they came from, only that they made home in Brugrove protecting the monarchs past. We welcomed them, for the gods had left us.*
 > – Excerpt from _The Valonde Archives_, Section 3.1.2
 
-### 📍 _[[Cities/The Lost City - City of Thieves\|The Lost City]]_
+### 📍 _[[Locations/The Lost City - City of Thieves\|The Lost City]]_
 
 > *“We were trading spice and jewellery when the sky opened. The mirrors cracked across the walls and none of us could remember the rates we’d just agreed upon. It seemed trivial. I asked my brother if the city always had thirteen bars—he said we’ve always had twelve. That’s when I knew.”*
 > – [[Joran the Forgetful\|Joran the Forgetful]], Smuggler
 
-### 📍 _[[Cities/Porthca - The Arcane Bridge\|Porthca]]_
+### 📍 _[[Locations/Porthca - The Arcane Bridge\|Porthca]]_
 
 > *“We signed a pact of trade and magic with Brugrove the day the moon broke into crescents. They gave us artefacts that sang, and told us not to touch them bare. But our ship never made it to port. The sea rebelled. Something in it… rebelled.”*
 > – Salvaged journal, last entry, Author Unknown
 
-### 📍 _[[Cities/Shazahath Mountains - The Ruined Caverns\|Shazahath Mountains]]_
+### 📍 _[[Locations/Shazahath Mountains - The Ruined Caverns\|Shazahath Mountains]]_
 
 > *“We heard them screaming from the peaks. The priests said not to look. Yet I felt the urge to. The mountains were burning inwards. That’s the best way I can describe it. Something inside was trying to crawl out.”*
 > – Notes from a mountain scout, now blind
 
 ---
 
-### Part III: _On [[Cities/The Isle of Black\|The Isle of Black]]_
+### Part III: _On [[Locations/The Isle of Black\|The Isle of Black]]_
 
 > *“I do not recall it being an island.”*
 > – Most common quote from elderly citizens across Nyropa
